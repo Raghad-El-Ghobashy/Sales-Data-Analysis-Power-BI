@@ -14,15 +14,13 @@ Utilized Power BI for data visualization and analysis, employing calculated meas
 2. **Sales Quantity**
 3. **Profit Margin**
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Open the Power BI file for detailed visualizations and insights.
-3. Explore the calculated measures to gain insights into total revenue, sales quantity, and profit margin.
-
 ## Project Outcome
 
 The project delivers actionable recommendations for optimizing sales strategies, improving performance, and identifying trends. The use of Power BI ensures interactive visualizations and insightful metrics for informed decision-making.
+
+## Project Image
+
+![Sales Data Analysis Dashboard](https://github.com/Raghad-El-Ghobashy/EmployeeDataAnalysisDashboard/raw/main/Employee%20Data%20Analysis%20Dashboard.png)
 
 Feel free to contribute, provide feedback, or use the project as a reference for your own sales data analysis endeavors.
 
