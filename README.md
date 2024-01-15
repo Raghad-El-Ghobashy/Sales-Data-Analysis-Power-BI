@@ -20,7 +20,7 @@ The project delivers actionable recommendations for optimizing sales strategies,
 
 ## Project Image
 
-![Sales Data Analysis Dashboard](https://github.com/Raghad-El-Ghobashy/EmployeeDataAnalysisDashboard/raw/main/Employee%20Data%20Analysis%20Dashboard.png)
+![Sales Data Analysis Dashboard](https://github.com/Raghad-El-Ghobashy/SALES-ANALYSIS-PROJECT/raw/main/Sales%20Data%20Analysis.jpg)
 
 Feel free to contribute, provide feedback, or use the project as a reference for your own sales data analysis endeavors.
 
