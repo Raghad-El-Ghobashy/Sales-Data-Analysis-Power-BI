@@ -33,7 +33,7 @@ The project delivers actionable recommendations for optimizing sales strategies,
 
 ## Project Dashboard
 
-![Sales Data Analysis Dashboard](https://github.com/Raghad-El-Ghobashy/SALES-ANALYSIS-PROJECT/raw/main/Sales%20Data%20Analysis.jpg)
+![Sales Data Analysis Dashboard](https://github.com/Raghad-El-Ghobashy/Sales-Data-Analysis-Power-BI/blob/main/Sales%20Data%20Analysis%20Dashboard.png)
 
 ---
 
