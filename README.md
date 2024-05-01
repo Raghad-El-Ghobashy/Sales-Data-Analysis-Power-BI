@@ -25,6 +25,12 @@ Utilized Power BI for data visualization and analysis, employing calculated meas
 
 The project delivers actionable recommendations for optimizing sales strategies, improving performance, and identifying trends. The use of Power BI ensures interactive visualizations and insightful metrics for informed decision-making.
 
+## Project' Portfolio Link 📽
+
+
+[Sales Data Analysis](https://project.novypro.com/PPSxxp)
+
+
 ## Project Dashboard
 
 ![Sales Data Analysis Dashboard](https://github.com/Raghad-El-Ghobashy/SALES-ANALYSIS-PROJECT/raw/main/Sales%20Data%20Analysis.jpg)
