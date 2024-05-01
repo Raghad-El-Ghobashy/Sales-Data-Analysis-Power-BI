@@ -16,6 +16,12 @@ Utilized Power BI for data visualization and analysis, employing calculated meas
 
 ## Project Outcome 🎯
 
+💰 Revenue: $34.39M
+
+📦 Sales Quantity: 209K
+
+📈 Profit Margin: 58.83%
+
 The project delivers actionable recommendations for optimizing sales strategies, improving performance, and identifying trends. The use of Power BI ensures interactive visualizations and insightful metrics for informed decision-making.
 
 ## Project Dashboard
